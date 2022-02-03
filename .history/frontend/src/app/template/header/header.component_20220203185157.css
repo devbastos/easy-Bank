@@ -1,0 +1,21 @@
+img {
+  max-width: 45rem;
+  margin-top: 5rem;
+}
+
+.textos {
+  margin-top: 15rem;
+  margin-left: 19rem;
+}
+
+.btn {
+  color: white;
+  border-radius: 10rem;
+  background: rgb(45, 49, 77);
+  background: linear-gradient(
+    90deg,
+    rgba(45, 49, 77, 0.5494572829131652) 24%,
+    rgba(49, 211, 92, 0.4822303921568627) 51%,
+    rgba(43, 183, 218, 0.5158438375350141) 100%
+  );
+}

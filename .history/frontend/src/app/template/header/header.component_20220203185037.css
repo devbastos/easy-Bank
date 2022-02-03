@@ -1,0 +1,15 @@
+img {
+  max-width: 45rem;
+  margin-top: 5rem;
+}
+
+.textos {
+  margin-top: 15rem;
+  margin-left: 19rem;
+}
+
+.btn {
+  border: solid black;
+  border-radius: 10rem;
+  background-color: aqua;
+}

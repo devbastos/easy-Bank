@@ -1,0 +1,74 @@
+/* * {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  font-size: 3rem;
+}
+
+.nav-item {
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-toggler {
+  color: black;
+  margin-right: 1.5rem;
+}
+
+/* .botaoDireito {
+  background: rgb(45, 49, 77);
+  background: linear-gradient(
+    90deg,
+    rgb(45, 49, 77) 24%,
+    rgba(49, 211, 92, 1) 51%,
+    rgba(43, 183, 218, 1) 100%
+  );
+
+  border-radius: 10rem;
+} */
+/* 
+.nav-item {
+  font-size: 1.4rem;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-item :hover {
+  text-decoration: line-through;
+  color: rgb(45, 49, 77);
+  color: linear-gradient(
+    90deg,
+    rgba(45, 49, 77, 1) 24%,
+    rgba(49, 211, 92, 1) 51%,
+    rgba(43, 183, 218, 1) 100%
+  );
+  transform: scale(1, 1);
+  transition: 0.6s ease;
+  font-size: 1.3rem;
+} */
+.navbar-toggler {
+  color: black;
+  margin-right: 1.5rem;
+}
+
+.nav-item {
+  color: black;
+  font-size: 1.4rem;
+}
+
+/* .nav-item :hover {
+  text-decoration: line-through;
+  color: rgb(45, 49, 77);
+  color: linear-gradient(
+    90deg,
+    rgba(45, 49, 77, 1) 24%,
+    rgba(49, 211, 92, 1) 51%,
+    rgba(43, 183, 218, 1) 100%
+  );
+  transform: scale(1, 1);
+  transition: 0.6s ease;
+  font-size: 1.3rem;
+} */

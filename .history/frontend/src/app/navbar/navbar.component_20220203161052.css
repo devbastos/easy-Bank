@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #3b3c3ff3;
+  font-size: 3rem;
+  margin: 0.5rem;
+}
+
+img {
+  width: 15rem;
+  margin-left: 6.5rem;
+}
+
+.nav-item {
+  margin-top: 0.9rem;
+  font-size: 1.4rem;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-item :hover {
+  color: #ff914d;
+  transform: scale(1, 1);
+  transition: 0.6s ease;
+  font-size: 1.3rem;
+}
+
+.span {
+  color: #ff914d;
+}

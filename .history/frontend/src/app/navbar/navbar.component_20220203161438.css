@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  font-size: 3rem;
+  margin: 0.5rem;
+}
+
+.navbar-toggler-icon {
+  background: #ff914d;
+}
+
+.nav-item {
+  margin-top: 0.9rem;
+  font-size: 1.4rem;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-item :hover {
+  color: #ff914d;
+  transform: scale(1, 1);
+  transition: 0.6s ease;
+  font-size: 1.3rem;
+}
+
+.span {
+  color: #ff914d;
+}
