@@ -1,0 +1,14 @@
+h1 {
+  font-size: 2.5rem;
+  line-height: 3rem;
+}
+
+.card {
+  margin: 1rem;
+  background-color: transparent;
+  display: inline-flex;
+}
+
+.card-img-top {
+  max-width: 18rem;
+}

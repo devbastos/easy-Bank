@@ -1,0 +1,8 @@
+.container-fluid {
+  background-color: #2d314d;
+}
+
+.nav-item {
+  display: inline-table;
+  margin: 0.7rem;
+}

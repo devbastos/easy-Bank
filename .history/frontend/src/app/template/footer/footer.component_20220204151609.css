@@ -1,0 +1,12 @@
+.container-fluid {
+  background-color: #2d314d;
+}
+
+svg {
+  margin: 0.7rem;
+}
+
+.nav-item {
+  display: inline-table;
+  margin: 0.7rem;
+}

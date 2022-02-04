@@ -1,0 +1,15 @@
+.container-fluid {
+  background-color: #dddddd;
+  margin-top: -5rem;
+}
+
+.card {
+  border: none;
+  margin-top: 4rem;
+  margin-right: 1.5rem;
+  background-color: transparent;
+}
+
+.card svg {
+  margin-bottom: 1.5rem;
+}

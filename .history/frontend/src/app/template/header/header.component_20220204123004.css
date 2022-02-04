@@ -1,0 +1,28 @@
+img {
+  max-width: 40rem;
+  display: inline-block;
+  width: 100%;
+  object-fit: cover;
+}
+
+h1 {
+  font-size: 2.5rem;
+  line-height: 3rem;
+}
+
+.texto {
+  margin-top: 10rem;
+  line-height: 3rem;
+  font-size: 1.1rem;
+}
+
+.btn {
+  color: white;
+  border-radius: 10rem;
+  background: rgb(49, 211, 92);
+  background: linear-gradient(
+    90deg,
+    rgba(49, 211, 92, 1) 10%,
+    rgba(43, 183, 218, 0.6397030279503105) 82%
+  );
+}

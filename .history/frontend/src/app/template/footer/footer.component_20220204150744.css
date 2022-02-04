@@ -1,0 +1,11 @@
+.container-fluid {
+  background-color: #2d314d;
+}
+
+svg {
+  color: #fff;
+}
+
+.nav-item {
+  display: inline-table;
+}
